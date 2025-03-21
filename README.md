@@ -40,7 +40,8 @@ Secret-Santa-App/
 ### 1. Clone the Repository
 
 ```bash
-
+git clone https://github.com/Vini90/Secret-Santa-App.git
+cd Secret-Santa-App
 ```
 
 ### 2. Create a Virtual Environment
